@@ -59,6 +59,8 @@
   var entities, ship;
   
   function init() {
+    EntityFactory.initComponents(Components);
+    
     var NUM_THINGS = 40;
     for(var i = 0; i < NUM_THINGS; i++) {
       createThingy();
