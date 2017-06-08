@@ -5,5 +5,3 @@ Requires jQuery for some of the example systems, but otherwise has no deps.
 
 ## Usage
 TBC
-
-Example here via CodePen: [http://codepen.io/njmcode/pen/LVPyjQ]
